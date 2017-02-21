@@ -1,13 +1,8 @@
 {
-  "resolution": "main",
-  "tree": {
-    "src": "",
-    "raw": "",
     "main": "index.d.ts",
     "browser": "index.d.ts",
     "version": "1.0.0",
     "global": true,
     "name": "shariff",
-    "type": "typings"
-  }
 }
+

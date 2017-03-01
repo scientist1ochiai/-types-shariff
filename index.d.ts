@@ -5,7 +5,7 @@ interface ShariffOptions {
     mailSubject?: Function | String;
     mailUrl?: Function | String;
     lang?: String;
-    services?: [any];
+    services?: String[];
     orientation?: String;
     backendUrl?: any;
     langFallback?: String;
